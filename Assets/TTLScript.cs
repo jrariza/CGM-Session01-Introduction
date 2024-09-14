@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class TTLScript : MonoBehaviour
 {
-    float countDown = 1.0f;
+    float countDown = 3.0f;
 
     // Start is called before the first frame update
     void Start()
